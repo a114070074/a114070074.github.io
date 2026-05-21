@@ -1,0 +1,60 @@
+.oliviacenter{
+    text-align: center;
+    color: #6e4e4e;
+    background-color: rgb(246, 218, 194);
+}
+.me{
+    background-color: rgb(243, 211, 241);
+    padding: 20px 30px ;
+    border-radius: 15px;
+    color: #6d4e6e;
+    margin: 80px auto;
+    width: 80%;
+    overflow: auto;
+}
+.centercenter{
+    text-align: center;
+}
+a.shulink{
+    color: #9d6d43;
+     padding: 0 30px;
+     border-radius: 40px;
+}
+.shulink:hover{
+    background-color: #ddcab2;
+    color: #935d33;
+}
+a.sshslink{
+    color: #9d6d43;
+     padding: 0 30px;
+     border-radius: 40px;
+}
+.sshslink:hover{
+    background-color: #ddcab2;
+    color: #935d33;
+}
+.oliviabig{
+    font-size: 20px;
+    font-weight: 800px;
+}
+.oliviago{
+    text-align: center;
+    font-size: 50px;
+}
+section#about{
+    background-color: rgb(240, 216, 232);
+    background-image: url("../assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#about h1 {
+    color: #8d5757;
+}
+section#cta{
+    background-color: #e9ddcf;
+}
+section#cta h2{
+    color: #69545a;
+}
