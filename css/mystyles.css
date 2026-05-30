@@ -58,3 +58,6 @@ section#cta{
 section#cta h2{
     color: #69545a;
 }
+body {
+    font-family: "Noto Serif TC", serif;
+}
