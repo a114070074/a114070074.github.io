@@ -74,3 +74,12 @@ a.drinkshoplink{
     background-color: #ddcab2;
     color: #935d33;
 }
+a.breadlink{
+    color: #9d6d43;
+     padding: 0 30px;
+     border-radius: 40px;
+}
+.breadlink:hover{
+    background-color: #ddcab2;
+    color: #935d33;
+}
