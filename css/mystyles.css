@@ -66,20 +66,20 @@ body {
     color: #502a2a;
 }
 a.drinkshoplink{
-    color: #9d6d43;
+    color: #702137;
      padding: 0 30px;
      border-radius: 40px;
 }
 .drinkshoplink:hover{
     background-color: #ddcab2;
-    color: #742727;
+    color: #935d33;
 }
 a.breadlink{
-    color: #9d6d43;
+    color: #a26236;
      padding: 0 30px;
      border-radius: 40px;
 }
 .breadlink:hover{
     background-color: #ddcab2;
-    color: #ecae7ee3;
+    color: #935d33;
 }
