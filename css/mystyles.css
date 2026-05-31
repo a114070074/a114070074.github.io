@@ -61,6 +61,6 @@ section#cta h2{
 body {
     font-family: "Noto Serif TC", serif;
 }
-a{
-    margin-right: 40px;
+.social-icons a{
+    margin-right: 30px;
 }
