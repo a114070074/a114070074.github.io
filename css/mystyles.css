@@ -39,7 +39,7 @@ a.sshslink{
 }
 .oliviago{
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
 }
 section#about{
     background-color: rgb(240, 216, 232);
@@ -62,6 +62,6 @@ body {
     font-family: "Noto Serif TC", serif;
 }
 .oliviago a{
-    margin-right: 30px;
+    margin-right: 40px;
     text-align: center;
 }
