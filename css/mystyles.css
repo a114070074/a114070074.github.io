@@ -65,3 +65,12 @@ body {
     margin-right: 30px;
     color: #502a2a;
 }
+a.drinkshoplink{
+    color: #9d6d43;
+     padding: 0 30px;
+     border-radius: 40px;
+}
+.drinkshoplink:hover{
+    background-color: #ddcab2;
+    color: #935d33;
+}
