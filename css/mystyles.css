@@ -20,6 +20,12 @@ a.shulink{
     color: #671e1e;
      padding: 0 30px;
      border-radius: 40px;
+    background-color: #ffd6e2;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid #ced4da;
+    display: inline-block;
 }
 .shulink:hover{
     background-color: #c2a3a3;
