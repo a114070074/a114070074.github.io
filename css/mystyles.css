@@ -20,17 +20,19 @@ a.shulink{
     color: #671e1e;
      padding: 0 30px;
      border-radius: 40px;
-    background-color: #cfadb5;
+     background-color: #cfadb5;
+     font-size: 28px;
 }
 .shulink:hover{
     background-color: #c2a3a3;
     color: #935d33;
 }
 a.sshslink{
-    color: #3c2b2a;
+     color: #3c2b2a;
      padding: 0 30px;
      border-radius: 40px;
      background-color: #cfadb5;
+     font-size: 28px;
 }
 .sshslink:hover{
     background-color: #ddcab2;
@@ -73,6 +75,7 @@ a.drinkshoplink{
      padding: 0 30px;
      border-radius: 40px;
      background-color: #cfadb5;
+     font-size: 28px;
 }
 .drinkshoplink:hover{
     background-color: #ddcab2;
