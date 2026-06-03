@@ -67,7 +67,7 @@ body {
 }
 .oliviago a{
     margin-right: 30px;
-    color: #502a2a;
+    color: #f772c2;
 }
 a.drinkshoplink{
     color: #702137;
@@ -101,8 +101,7 @@ a.breadlink{
     justify-content: center;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #2b313685;
-    color: #ee66bc;
+    background-color: #412c36;
     border-radius: 100%;
     font-size: 1.5rem;
     margin-right: 1.5rem;
