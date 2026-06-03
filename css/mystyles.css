@@ -98,7 +98,7 @@ a.breadlink{
 .social-icon{
     display: inline-flex;
     align-items: center;
-    justify-content: right;
+    justify-content: center;
     height: 3.5rem;
     width: 3.5rem;
     background-color: #412c36;
