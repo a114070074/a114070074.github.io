@@ -44,6 +44,7 @@ a.sshslink{
 }
 .oliviago{
     text-align: center;
+    margin-right: 20px;
 }
 section#about{
     background-color: rgb(240, 216, 232);
@@ -105,5 +106,4 @@ a.breadlink{
     border-radius: 100%;
     font-size: 1.5rem;
     margin-right: 1.5rem;
-    margin-right: 20px;
 }
