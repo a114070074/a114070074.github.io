@@ -83,7 +83,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  font-size: 100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
